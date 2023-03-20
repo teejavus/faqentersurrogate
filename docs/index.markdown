@@ -12,10 +12,6 @@ For Windows and MacOS we are currently offering the build from our S3 servers. \
 
 
 
-## Windows Installation
-1. Download the [Windows Installer](https://surrogatedata.s3.ap-south-1.amazonaws.com/install/Surrogate.exe)
-2. 
-
 
 
 
