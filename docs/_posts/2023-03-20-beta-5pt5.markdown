@@ -8,4 +8,4 @@ categories: Surrogate update
 New Features
 ------
 
-Addition of Ohm's Law World.
+Admins now have the ability to change servers alongwith all the guests present in their current server.

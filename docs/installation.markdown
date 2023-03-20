@@ -22,7 +22,7 @@ MacOS Installation
 1. Download the Apple Disk Image file from the [Following Link](https://surrogatedata.s3.ap-south-1.amazonaws.com/install/Surrogate_Mac.dmg)
 2. Save the Surrogate_Mac.dmg file to the Preferred drive.
 ![Alt text](assets/macos/01_save.png)
-3. Double click on on the Surrogate_Mac.dmg file
+3. Double click on the Surrogate_Mac.dmg file
 4. Wait for the .dmg file to open and afterwards drag the Surrogate icon into the Mac application folder
 ![Alt text](assets/macos/02_copy.png)
 5. Double click on the application and let it run
@@ -33,3 +33,8 @@ MacOS Installation
 ![Alt text](assets/macos/05_pref.png)
 8. Select **Open Anyway**
 ![Alt text](assets/macos/06_open.png)
+9. Double click on the application and let it run
+![Alt text](assets/windows/02_login.png)
+
+**Note:**
+Currently the build has no way to auto-update in MacOS, so we suggest checking the current build number on login screen and matching it with the current build on home page. 

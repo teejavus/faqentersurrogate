@@ -10,7 +10,8 @@ You can download the app from official app stores for any of the mobile devices.
 For Windows and MacOS we are currently offering the build from our S3 servers. \
 [Windows Installer](https://surrogatedata.s3.ap-south-1.amazonaws.com/install/Surrogate.exe) || [macOS](https://surrogatedata.s3.ap-south-1.amazonaws.com/install/Surrogate_Mac.dmg)
 
-
+**Current Production Build:** 5.2 \\
+**Current Beta Build:** 5.5
 
 
 
