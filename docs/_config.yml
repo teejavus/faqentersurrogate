@@ -12,7 +12,7 @@ title: How To Use SURROGATE
 email: contact@hasdesk.com
 description: >- # this means to ignore newlines until "baseurl:"
   This documentaion is WIP and constantly been updated with how to use the newest features on Surrogate.
-baseurl: "/surrogatefaq" # the subpath of your site, e.g. /blog
+baseurl: "/surrogatefaq/" # the subpath of your site, e.g. /blog
 url: "https://teejavus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hereafterhub
 #github_username:  jekyll
