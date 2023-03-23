@@ -19,8 +19,8 @@ How to Join a World and Navigate.
 ![Alt text](assets/login/06_easymode.png)
 
     1.  This is the Easy Mode Control - this is the default mode for all new users. 
-    2.  The on screen arrow (left bottom) helps the user move in front/back/left/right (depending on the orientation of the view) 
-    3.  Next to the Arrows, the icon of a walking person toggles the auto-walk (There is no predefined path - auto-walk always walks forward) 
+    2.  The on screen arrow (left bottom) helps the user move in front/back/left/right (depending on the orientation of the view). 
+    3.  Next to the Arrows, the icon of a walking person toggles the auto-walk. 
     4.  Right bottom - the icon is for the avatar to jump.
     5.  Top Right - there are set of 3 buttons
           *  Emoji (E) - you can tap on the button or press E on your keyboard to trigger this option. 
@@ -43,6 +43,7 @@ Basic Movements - Easy Mode
 1.  Moving across the room 
     <ol type="a">
         <li>User can use the on screen arrows to move around the room.</li>
+        <li> Toggle auto-walk on. (There is no predefined path, the auto-walk always walks forward)</li>
         <li>WASD or the arrow buttons on the keyboard work similarly.</li>
     </ol>
 ![Alt text](assets/userguide/01_easy_see.png)    
@@ -73,7 +74,7 @@ Shifting between Easy Mode and Gamer Mode
 You will land inside the world, without the onscreen controls.
 
 3.  Alternatively click on the gear button on the Left, and select the Experience Settings tab and hit Apply and Save.
-![Alt text](assets/userguide/03_easy2gamer0 2.png)
+![Alt text](assets/userguide/03_easy2gamer02.png)
  You can also use this to toggle Inverted Controls.
 
 **Note:** Same for mobile use case. 
@@ -87,10 +88,13 @@ Basic Movements - Gamer Mode
 
 
 2.  Moving around the Room \
-    WASD keys and the Arrow keys will help moving around the world.
-
+    <ol type="a">
+        <li>WASD keys and the Arrow keys will help moving around the world.</li>
+        <li>Keeping *SHIFT* key pressed speeds up the avatar. </li>
+    </ol>
 3.  Teleport \
-    You can use the R button on the Keyboard to help with a visual aid for where you will land. Using the mouse view - you can decide on the end point. Once you have selected the desired position, release R to be teleported.
+    You can use the R button on the Keyboard to help with a visual aid for where you will land. Using the mouse view - you can decide on the end point. Once you have selected the desired position, release R to be teleported.\
+    **Needs an image**
 
 4.  Jump - Use the spacebar key on the keyboard to make the avatar jump.
 
@@ -115,10 +119,25 @@ Audio Controls
     The mic turns green when it is active, and you see an animation when you are talking/
 
 **Note:** 
-
-<ol type="a">
+<ol type="i">
     <li>Surrogate uses spatial sound (normal audio) - depending on which side the speaker is and how far they are, the level of audio you hear will be affected.</li>
-    <li>Global PSA and Walkie are non directional and can be heard over distance/across the world (based on server settings).</li>
+    <li>Global PSA and Walkie (Admin features) are non directional and can be heard over distance/across the world (based on server settings).</li>
 </ol>
 
-test
+Interaction with Environment
+------
+
+Interact with a Button
+======
+1. Gamer Mode
+    <ol type="a">
+    <li>Right click will show a laser, bring this laser to button of interest.</li>
+    <li>Left click to trigger the button.</li>
+    </ol>
+
+**Needs a screen shot of laser being used** 
+
+2. Easy Mode
+    <ol type="a">
+    <li>Since the mouse is Active - One can use the left click after positioning the cursor on the required button.</li>
+    </ol>
