@@ -30,7 +30,8 @@ If a user dooesn't want to register for an one off event, then they can also joi
 2. Fill in the Name box, and enter the session id shared with you to join into the world directly.
 
 **Note:** \
-The session needs to be live for a guest to be able to join the world.
+1. The session needs to be live for a guest to be able to join the world.
+2. The guest cannot start a world, or control their avatar details.
 
 ---
 

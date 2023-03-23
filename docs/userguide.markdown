@@ -3,9 +3,89 @@ layout: page
 title: User Guide
 ---
 
-How to Join a World?
+How to Join a World and Navigate.
 ------
 
-1. After a user logs in, they are able to see the available worlds for them on their dashboard
+1.  After a user logs in, they are able to see the available worlds for them on their dashboard.
 ![Alt text](assets/login/03_dashboard.png)
-2. In order to Join a world, the world needs to be downloaded from the server
+
+2.  The first time a user joins in, they will need to download the world file, afterwards they will see a **Green Button** to Enter the World.
+![Alt text](assets/login/04_dashboard2.png)
+
+3.  In case the user was provided with a Session ID, they can also Join by Code
+![Alt text](assets/login/05_joinbycode.png)
+
+4.  Once the user spawns inside the world, this is how the screen will appear
+![Alt text](assets/login/06_easymode.png)
+
+    1.  This is the Easy Mode Control - this is the default mode for all new users. 
+    2.  The on screen arrow (left bottom) helps the user move in front/back/left/right (depending on the orientation of the view) 
+    3.  Next to the Arrows, the icon of a walking person toggles the auto-walk (There is no predefined path - auto-walk always walks forward) 
+    4.  Right bottom - the icon is for the avatar to jump.
+    5.  Top Right - there are set of 3 buttons
+          *  Emoji (E) - you can tap on the button or press E on your keyboard to trigger this option. 
+          *  Raise Hand (5) - you can tap on the button or press 5 on your keyboard to trigger a hand emoji raise/wave. 
+          *  Mic/Talk (T) - this will Trigger the audio channel.
+    6.  Top Left Logo - This will trigger the chat menu (this can also be triggered using *Esc*, *C*, *Backspace* on the keyboard).
+
+5.  On the phone you will see a similar UI with an additional icon.\
+**'screenshot of phone'**\
+When you trigger the 'Free View Mode' you can move the phone around in 360&deg; to look around the virtual world.
+
+
+
+Navigations & Movements
+------
+
+Basic Movements - Easy Mode
+======
+
+1.  Moving across the room 
+    <ol type="a">
+        <li>User can use the on screen arrows to move around the room.</li>
+        <li>WASD or the arrow buttons on the keyboard work similarly.</li>
+    </ol>
+![Alt text](assets/userguide/01_easy_see.png)    
+
+2.  Looking around the room - Press the Left mouse button inside the app - an eyeball icon will appear at the bottom. With the mouse button pressed down, when you move the mouse - the avatar can look around the world. 
+
+3.  Teleport
+    <ol type="a">
+        <li>You can double click on the floor anywhere to be teleported there.</li>
+        <li>You can use the R button on the Keyboard to help with a visual aid for where you will land. Using the mouse view - you can decide on the end point.</li>
+        <li>Once you have selected the desired position, release R to be teleported.</li>
+    </ol>
+![Alt text](assets/userguide/02_easy_teleport.png)
+
+4.  Jump - Use the spacebar key on the keyboard to make the avatar jump.
+
+5.  Crouch - Use the Left Alt key on the keyboard to make the avatar crouch.
+
+
+Shifting between Easy Mode and Gamer Mode
+======
+
+1.  Open Chat menu (by tapping on the logo top left, or using *C* on keyboard.)
+![Alt text](assets/userguide/03_easy2gamer01.png)
+
+2.  Tap on the **Toggle Controlling Mode** \
+![Alt text](assets/userguide/03_easy2gamer03.png)
+You will land inside the world, without the onscreen controls.
+
+3.  Alternatively click on the gear button on the Left, and select the Experience Settings tab and hit Apply and Save.
+![Alt text](assets/userguide/03_easy2gamer0 2.png)
+ You can also use this to toggle Inverted Controls.
+
+**Note:** Same for mobile use case. 
+
+
+Basic Movements - Gamer Mode
+======
+
+1.  Looking Around the World - The view is tethered to the mouse, as you move the mouse you'll be looking around the world.
+- Pressing Windows button or ctrl+alt and shift to another app will detach the mouse
+
+2.  Moving around the Room - WASD keys and the Arrow keys will help moving around the world.
+
+3.  Teleport - \
+    You can use the R button on the Keyboard to help with a visual aid for where you will land. Using the mouse view - you can decide on the end point. Once you have selected the desired position, release R to be teleported.
