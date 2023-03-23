@@ -82,10 +82,43 @@ You will land inside the world, without the onscreen controls.
 Basic Movements - Gamer Mode
 ======
 
-1.  Looking Around the World - The view is tethered to the mouse, as you move the mouse you'll be looking around the world.
-- Pressing Windows button or ctrl+alt and shift to another app will detach the mouse
+1.  Looking Around the World - The view is tethered to the mouse, as you move the mouse you'll be looking around the world.\
+    Note: Pressing Windows button or ctrl+alt and shift to another app will detach the mouse
 
-2.  Moving around the Room - WASD keys and the Arrow keys will help moving around the world.
 
-3.  Teleport - \
+2.  Moving around the Room \
+    WASD keys and the Arrow keys will help moving around the world.
+
+3.  Teleport \
     You can use the R button on the Keyboard to help with a visual aid for where you will land. Using the mouse view - you can decide on the end point. Once you have selected the desired position, release R to be teleported.
+
+4.  Jump - Use the spacebar key on the keyboard to make the avatar jump.
+
+5.  Crouch - Use the Left Alt key on the keyboard to make the avatar crouch.
+
+6.  Extra Controls
+    <ol type="a">
+        <li>Keys 1 and 2 (above QWE) - Arm can go forward and backward (Gamer mode).</li>
+        <li>Keys 3 and 4 or Mouse wheel scroll can change field of view  (Easy/Gamer).</li>
+    </ol>
+
+
+Audio Controls
+------
+
+1.  Switch on Audio Channel with **T**
+    <ol type="a">
+        <li>Long press the Key to trigger Push To Talk. Audio channel closes when you stop pressing the key.</li>
+        <li>Short press the Key to keep the channel open. Short press the Key again to close the channel.</li>
+    </ol>
+    ![Alt text](assets/userguide/04_audioT.png)\
+    The mic turns green when it is active, and you see an animation when you are talking/
+
+**Note:** 
+
+<ol type="a">
+    <li>Surrogate uses spatial sound (normal audio) - depending on which side the speaker is and how far they are, the level of audio you hear will be affected.</li>
+    <li>Global PSA and Walkie are non directional and can be heard over distance/across the world (based on server settings).</li>
+</ol>
+
+test
