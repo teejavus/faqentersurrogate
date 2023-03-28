@@ -84,13 +84,13 @@ Basic Movements - Gamer Mode
 ======
 
 1.  Looking Around the World - The view is tethered to the mouse, as you move the mouse you'll be looking around the world.\
-    Note: Pressing Windows button or ctrl+alt and shift to another app will detach the mouse
+    Note: Pressing *Windows* key or *ALT* and *TAB* to another app will detach the mouse
 
 
 2.  Moving around the Room \
     <ol type="a">
         <li>WASD keys and the Arrow keys will help moving around the world.</li>
-        <li>Keeping *SHIFT* key pressed speeds up the avatar. </li>
+        <li>Keeping <i>SHIFT</i> key pressed speeds up the avatar. </li>
     </ol>
 3.  Teleport \
     You can use the R button on the Keyboard to help with a visual aid for where you will land. Using the mouse view - you can decide on the end point. Once you have selected the desired position, release R to be teleported.\
@@ -102,8 +102,8 @@ Basic Movements - Gamer Mode
 
 6.  Extra Controls
     <ol type="a">
-        <li>Keys 1 and 2 (above QWE) - Arm can go forward and backward (Gamer mode).</li>
-        <li>Keys 3 and 4 or Mouse wheel scroll can change field of view  (Easy/Gamer).</li>
+        <li>Keys <i>1</i> and <i>2</i> (above QWE) - Arm can go forward and backward (Gamer mode).</li>
+        <li>Keys <i>3</i> and <i>4</i> or Mouse wheel scroll can change field of view  (Easy/Gamer).</li>
     </ol>
 
 
